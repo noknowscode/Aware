@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `Aware/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/Aware) (private). This repository is archived and kept for its history.
+
 # Aware
 
 A spatial app that recognises the rooms you have been in: rooms get a spatial fingerprint, and each room has explore, measure, memories, objects, motion and privacy views. Room capture uses ARCore on Android.
